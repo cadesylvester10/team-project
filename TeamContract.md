@@ -25,12 +25,12 @@ This contract sets out shared expectations and commitments for how our team will
 * What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.) A teammate should notify you about anything that could effect either their work or the group grade, or if they need any sort of help. Exmaples of this include if they wont be able to miss a deadline, or if they are struggling with their part of the work, or they need to collaborate and use others work for theirs.
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-Actively listen without interrupting
-Let everyone share their ideas
-Be polite and avoid disrespectful language
-Give constructive feedback, not personal attacks
-Include quieter people in discussions
-Stay open to different perspectives
+Actively listen without interrupting, 
+Let everyone share their ideas, 
+Be polite and avoid disrespectful language, 
+Give constructive feedback, not personal attacks, 
+Include quieter people in discussions, 
+Stay open to different perspectives, 
 ---
 
 ### [Other Categories of norms and expectations go here]
