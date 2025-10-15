@@ -18,14 +18,19 @@ This contract sets out shared expectations and commitments for how our team will
 
 ### Communication
 
-* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.)
+* Which platform will you use for communication outside of class, when required for work on your course project? (Examples: Text message, Discord, WeChat, etc.) Instagram, we have a group chat with everyone in it
 
-* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? 
+* Each teammate agrees to respond to messages in at most how long? 1 day? 2 days? Some other amount of time? We are all relativly active on instagram so at most 1 day for each of us to at least respond.
 
-* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.)
+* What things should a teammate notify you about? (Examples: if they think they won't be able to meet a deadline, if they have to miss lecture, etc.) A teammate should notify you about anything that could effect either their work or the group grade, or if they need any sort of help. Exmaples of this include if they wont be able to miss a deadline, or if they are struggling with their part of the work, or they need to collaborate and use others work for theirs.
 
 * Respectful and inclusive behaviour are necessary for smooth and productive communication. What are some respectful and inclusive behaviours you expect when communicating with each other during lectures, labs, or outside of class? (Examples: Actively listening to each team members ideas, giving everyone a chance to meaningfully contribute, etc.)
-
+Actively listen without interrupting
+Let everyone share their ideas
+Be polite and avoid disrespectful language
+Give constructive feedback, not personal attacks
+Include quieter people in discussions
+Stay open to different perspectives
 ---
 
 ### [Other Categories of norms and expectations go here]
