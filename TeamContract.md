@@ -33,13 +33,6 @@ Include quieter people in discussions,
 Stay open to different perspectives, 
 ---
 
-### [Other Categories of norms and expectations go here]
-
-* Based on your previous teamwork experiences, what other behaviours do you agree upon as a team?
-    - some examples of possible additional team norms and expectations are included in the sample team contract in case your team needs some help getting ideas for what else you want to include.
-
----
-
 ## Decision Making
 
 Through a voting process and group discussions, we will determine what decisions will be implemented. This will be in the form of a unanimous vote. 
